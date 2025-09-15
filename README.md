@@ -1,3 +1,8 @@
+
+winterhold - core
+
+We're leaving our core open, as is the open source tradition, but what will gradually change our vision of FreeBSD will be for future additions.
+
 FreeBSD Source:
 ---------------
 This is the top level of the FreeBSD source directory.
